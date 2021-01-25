@@ -1,5 +1,5 @@
 # About
-This is a tutorial for deno begginners `create API with MySQL , Oak Router and denodb(ORM)`
+This is a tutorial for deno begginners `create API with MariaDB , Oak Router and denodb(ORM)`
 
 * Use [comment Anchor](https://github.com/ExodiusStudios/vscode-comment-anchors) extention in VSCode So that yo can easily jumb into Notes
 
